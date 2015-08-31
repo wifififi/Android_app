@@ -1,4 +1,4 @@
-package com.example.nicolasmaneval.wifififi;
+package com.wifififi;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

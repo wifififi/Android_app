@@ -1,4 +1,4 @@
-package com.example.nicolasmaneval.wifififi;
+package com.wifififi;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
